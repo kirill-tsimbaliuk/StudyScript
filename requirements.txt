@@ -1,0 +1,8 @@
+altgraph==0.17.2
+appdirs==1.4.4
+future==0.18.2
+pefile==2021.9.3
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.3
+pywin32-ctypes==0.2.0
+rply==0.7.8

@@ -16,8 +16,6 @@ It is recommended to use Python 3.9.
 ## Using
 The language documentation can be found on the official website.
 
-After installation, use this command to launch the virtual language shell.
+To start the shell run the command:
 
-```studyscript```
-
-The language also has its own file extension - .stscr. You can create such a file in any editor convenient for you and run it either through the command line or by simply clicking on it twice in Explorer.
+```python main.py [file_name]```

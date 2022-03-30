@@ -4,7 +4,7 @@
 Study Script is a project to create a simple, easy-to-understand programming language. 
 
 At the moment, the project is under development.
-Official website of the project:
+Official website of the project: https://kirill72.pythonanywhere.com/
 
 ## Installation
 

@@ -1,1 +1,0 @@
-pyinstaller --add-data "lexer.py;." --add-data "parser_script.py;." --add-data "tree.py;." -i "icon.ico" main.py

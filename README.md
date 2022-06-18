@@ -16,6 +16,6 @@ It is recommended to use Python 3.9.
 ## Using
 The language documentation can be found on the official website.
 
-To start the shell run the command:
+To start the shell run the command in the directory:
 
 ```python main.py [file_name]```
